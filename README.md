@@ -66,6 +66,10 @@ To design and implement a **secure and effective voting machine** using **RFID c
 -   Block diagrams show all connections: RFID reader, SD card, OLED, buttons, and ESP32.
 -   Flowcharts represent the entire logic from card detection to vote casting and syncing.
 
+## 📺 Project Demonstration Video
+
+[Watch the Smart Voting System Demo](https://drive.google.com/file/d/1ZqU7U1Rkx2nG5DmZYNUAI47jUgE8040o/view?usp=sharing)
+
 ## ✅ Conclusion
 
 This RFID-based smart voting system increases:
